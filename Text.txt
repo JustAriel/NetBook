@@ -1,0 +1,3 @@
+rnfc - create full basic structure.
+
+Start of the project: 07/06/2023.
